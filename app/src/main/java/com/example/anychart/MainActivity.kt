@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         val pie = AnyChart.pie()
         val hazz = "Hieu ne"
+        val connect = "Ne"
         val data = ArrayList<DataEntry>()
 
         for(i in name.indices)
