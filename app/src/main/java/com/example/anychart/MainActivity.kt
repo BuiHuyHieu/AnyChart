@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
         val gdp = arrayOf(1000,100,500,200)
 
         val pie = AnyChart.pie()
-
+        val hazz = "Hieu ne"
         val data = ArrayList<DataEntry>()
 
         for(i in name.indices)
